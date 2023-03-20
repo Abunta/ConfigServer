@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: config-server-app
-          image: alexubuntu227/configserver
+          image: IMAGE_URL/configserver
           imagePullPolicy: Always
           ports:
             - containerPort: 9296

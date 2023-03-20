@@ -55,7 +55,7 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/alexubuntu227/configserver</image>
+						<image>${REPO_URL}/configserver</image>
 						<tags>${project.version}</tags>
 					</to>
 				</configuration>
